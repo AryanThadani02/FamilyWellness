@@ -16,7 +16,7 @@ function Slider() {
             data-carousel-item
           >
             <img
-              src="../../public/assest/1.jpg"
+              src="../assest/1.jpg"
               className="absolute block w-full h-full object-contain"
               alt="Slide 1"
             />
@@ -27,7 +27,7 @@ function Slider() {
             data-carousel-item
           >
             <img
-              src="../../public/assest/2.jpg"
+              src="../assest/2.jpg"
               className="absolute block w-full h-full object-contain"
               alt="Slide 2"
             />
@@ -38,7 +38,7 @@ function Slider() {
             data-carousel-item
           >
             <img
-              src="../../public/assest/3.jpg"
+              src="../assest/3.jpg"
               className="absolute block w-full h-full object-contain"
               alt="Slide 3"
             />
@@ -49,7 +49,7 @@ function Slider() {
             data-carousel-item
           >
             <img
-              src="../../public/assest/4.jpg"
+              src="../assest/4.jpg"
               className="absolute block w-full h-full object-contain"
               alt="Slide 4"
             />
@@ -60,7 +60,7 @@ function Slider() {
             data-carousel-item
           >
             <img
-              src="../../public/assest/5.jpg"
+              src="../assest/5.jpg"
               className="absolute block w-full h-full object-contain"
               alt="Slide 5"
             />
